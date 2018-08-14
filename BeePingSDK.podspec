@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "BeePingSDK"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "ping sdk"
   s.description  = <<-DESC
     0.0.x:ping基础功能
